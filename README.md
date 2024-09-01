@@ -1,4 +1,4 @@
-## **Text Classification System for Ancient History Books**
+## **Analyzing-Gutenberg-Texts-using-Various-Classification-Techniques**
 
 ### Introduction:
 This repository contains the implementation of a text classification system designed to categorize ancient history books based on their content. The system utilizes various natural language processing (NLP) techniques and machine learning algorithms to accurately classify the books into relevant categories. The goal of this project is to provide a valuable resource for researchers, historians, and students interested in the ancient civilizations of Egypt, Carthage, Assyria, Chaldea, Syria, Babylonia, and Persia.
